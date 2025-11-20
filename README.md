@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+#### [:pager: **Personal Site**](https://rickanli.dev/)
+
+I'm a recent CS graduate currently looking for a software engineering position.
+
+I'm also trying to contribute more to open source.
+
 <!--
 **kriskFuse/kriskFuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
